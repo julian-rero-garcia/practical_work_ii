@@ -1,5 +1,5 @@
 body {
-    margin: 10px;
+    margin: 0;
     font-family: 'Times New Roman', Times, serif;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@ body {
 }
 .container {
     max-width: 1000px;
-    width: 100%;
+    width: 75%;
     margin: 0 auto;
 }
 header {
@@ -59,6 +59,7 @@ nav a.active {
     text-decoration: underline;
 }
 .content {
+    height: 1000px;
     padding: 10px;
     display: flex;
     flex-direction: column;
@@ -94,4 +95,48 @@ nav a.active {
 .image {
     background-color: #f9f9f9;
     padding: 10px;
+}
+.sidebar {
+  width: 25%;
+  padding: 1.2rem;
+  background-color: #f4f6f8;
+  border-left: 4px solid #2c3e50; 
+  box-sizing: border-box;
+}
+.breadcrumb-title {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+.breadcrumb ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.2rem 0;
+}
+.breadcrumb li {
+  font-size: 0.9rem;
+  margin-bottom: 0.3rem;
+}
+.breadcrumb a {
+  color: #1a5276;
+  text-decoration: none;
+}
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+.aside-info h3 {
+  font-size: 1rem;
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+.aside-info p {
+  font-size: 0.9rem;
+  color: #333;
+  line-height: 1.4;
+}
+.content-wrapper {
+    display: flex;
+    align-items: flex-end;
+    gap: 2rem;
 }

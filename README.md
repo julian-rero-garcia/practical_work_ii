@@ -7,3 +7,4 @@ This is the repository of the Practical Work II
 - Created the project structure and starting the index.html page
 - Added global styles and index.html page
 - Added about.html with its images and edited global styles
+- Added contact.html and reviewed previous pages
