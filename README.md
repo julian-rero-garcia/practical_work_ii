@@ -9,3 +9,4 @@ This is the repository of the Practical Work II
 - Added about.html with its images and edited global styles
 - Added contact.html and reviewed previous pages
 - Added net.html, edited styles.css and linked all pages
+- Added degree.html and linked to all pages
