@@ -10,3 +10,4 @@ This is the repository of the Practical Work II
 - Added contact.html and reviewed previous pages
 - Added net.html, edited styles.css and linked all pages
 - Added degree.html and linked to all pages
+- Added fce.html and linked to the rest. Updated styles.css
