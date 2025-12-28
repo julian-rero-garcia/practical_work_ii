@@ -12,3 +12,4 @@ This is the repository of the Practical Work II
 - Added degree.html and linked to all pages
 - Added fce.html and linked to the rest. Updated styles.css
 - Added topic.html and connected to the rest
+- Finished last details and publishing webpage
